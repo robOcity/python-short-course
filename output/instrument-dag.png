@@ -1,0 +1,12 @@
+// classes of instruments
+digraph {
+	I [label=Instrument]
+	B [label=Brass]
+	T [label=Trumpet]
+	F [label="French Horn"]
+	G [label="Electic Guitar"]
+	B -> I
+	B -> T
+	B -> F
+	I -> G
+}
