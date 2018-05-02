@@ -5,7 +5,7 @@ We recommend installing the [Anaconda](https://anaconda.org/) distribution with 
 
 # Recommended timing/order of notebooks for courses in the [Regis MSDS Program](https://www.regis.edu/CCIS/Academics/Degrees-Programs/Graduate-Programs/MS-Data-Science.aspx):
 
-## MSDS575 Computational statistics
+## MSC575 Computational statistics
 First week:
 
 * 1-Jupyter_Notebook_and_Python_basics
