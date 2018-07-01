@@ -2,7 +2,7 @@
 
 Get started quickly with modern Python.  These materials are optional, and intended to get you up to speed for Python-based courses at Regis University.  These notebooks were made for Python3.  Python2 [behaves slightly differently](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/).
 
-We recommend installing the [Anaconda](https://anaconda.org/) distribution with Python3.  If you already have Python2 installed on your system, you may want to use a virtual machine with Ubuntu 18 (which has Python3 installed by default): https://websiteforstudents.com/how-to-install-ubuntu-16-04-17-10-18-04-guest-machines-on-virtualbox/.
+We recommend installing the [Anaconda Python](https://anaconda.org/) distribution with Python3.  If you already have Python2 installed on your system, you may want to use a virtual machine with Ubuntu 18 (which has Python3 installed by default): https://websiteforstudents.com/how-to-install-ubuntu-16-04-17-10-18-04-guest-machines-on-virtualbox/.
 
 ## Recommended timing/order of notebooks for courses in the [Regis MSDS Program](https://www.regis.edu/CCIS/Academics/Degrees-Programs/Graduate-Programs/MS-Data-Science.aspx):
 
